@@ -10,8 +10,8 @@
 
 ```
 Query + Retrieved Documents
-         │
-         ▼
+          │
+          ▼
 ┌─────────────────────┐
 │ Evidence Extraction │  ← Filter noise documents
 └─────────┬───────────┘
